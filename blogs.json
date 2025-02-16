@@ -1,0 +1,27 @@
+[
+  {
+    "title": "The Future of AI",
+    "date": "2025-02-15",
+    "author": "John Doe",
+    "content": "Artificial Intelligence is shaping the future..."
+  },
+  {
+    "title": "5G Technology: What’s Next?",
+    "date": "2025-02-10",
+    "author": "Jane Smith",
+    "content": "The introduction of 5G technology has revolutionized..."
+  }
+  {
+  "title": "Quantum Computing Breakthrough",
+  "date": "2025-02-12",
+  "author": "Alice Johnson",
+  "content": "Quantum computing is advancing at a rapid pace..."
+}
+{
+  "title": "The Rise of Edge Computing",
+  "date": "2025-02-18",
+  "author": "Michael Scott",
+  "content": "Edge computing is transforming how data is processed..."
+}
+
+]
